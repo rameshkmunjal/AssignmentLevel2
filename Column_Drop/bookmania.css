@@ -1,0 +1,97 @@
+/* Common Settings */
+
+body {
+  padding-top: 2.5rem;
+  background:#ddd;
+  font-size:16px;
+}
+
+
+.details {
+  background: #abf;
+  padding:0.75rem;
+  height:auto;  
+}
+
+.contents {
+  background: #fff;
+  height:auto;
+  padding:1.25rem;
+}
+
+.contents  p { 
+	text-align:justify;
+}
+
+.contents h1 {
+	color:darkblue;
+	text-align:center;
+}
+
+.book-image-holder {
+  background: #afb;    
+}
+
+.book-image-holder  img { 
+	width:100% ; 
+	margin-top:0.5rem; 
+}
+
+
+/* Specific Settings */
+
+#book-title { 
+	color:darkblue;
+} 
+	
+#header {	
+	height:4.0rem;
+	background-color:#000;	
+}
+
+#header h2 { 
+	text-align:center; 
+	padding-top:0.75rem; 
+	color:orange;
+}		
+#footer {	
+	height:2.0rem;
+	background-color:#000;
+	color:white;
+}
+
+#footer p { 
+	text-align:center;
+}
+
+
+/* Media Queries */
+
+@media screen and (max-width:990px)
+{
+	.details { 
+		order:3; 
+	}
+	.contents { 
+		order :1; 
+	}
+	.book-image-holder {
+		order:2; 
+	}
+}
+
+@media screen and (max-width:768px)
+{
+	.details { 
+		order:3; 
+	}
+	.contents { 
+		order :1; 
+	}
+	.book-image-holder {
+		order:2; 
+	}
+}
+
+
+
