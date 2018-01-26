@@ -1,3 +1,3 @@
 # AssignmentLevel2
-![Background Image](portfolio/portfolio-image.png "Description goes here")
+![Background Image](portfolio-image.PNG "Description goes here")
 Edwisor course Assignment Level 2
