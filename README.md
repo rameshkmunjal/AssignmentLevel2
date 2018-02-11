@@ -25,7 +25,7 @@ For visualisation we have developed 4 web pages on following responsive design  
 
 1. [BookMania.in](Column_Drop/bookmania.html) - This webpage is based on Column Drop design.
 	- on large screen page is divided into 3 columns.
-	- on medium devices right column drops to bottom and on top screen is occupied by two columns . 
+	- on medium devices right column drops to bottom and on top screen is occupied by two coltumns . 
 	- on small medium , again column drops to bottom and this time it is left side column and bottom space is shared equally by both dropped columns.
 	- on extra small screen each of three columns are now sharing full screen space.
 	 
@@ -35,11 +35,11 @@ For visualisation we have developed 4 web pages on following responsive design  
 	- on small medium, overview column drops under image column and all three columns are stacked vertically now.
 	- on extra small screen our horizontal nav bar converts into a vertical nav bar.
 	 
-3. Pulse Times - This webpage is based on Mostly Fluid design pattern. 
+3. [Pulse Times](Mostly_Fluid/newspaper.html) - This webpage is based on Mostly Fluid design pattern. 
 	- on large screen there are two columns above and three columns below.
 	- on medium devices there is one column above and  two columns below that and again two columns below . 			   
 	- on small medium  and extra small screen , each column is sharing full page width.
-4. Subziwala.com - This webpage is based on off canvas design pattern.
+4. [Subziwala.com](off-canvas/off-canvas.html) - This webpage is based on off canvas design pattern.
 	- on screen sizes upto small media one column is off canvas.
 	- on extra small devices all columns are of full width and stacked over one another.	 
 
